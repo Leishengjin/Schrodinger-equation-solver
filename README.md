@@ -1,5 +1,5 @@
 # Schrodinger-equation-solver
-Time dependent Schrödinger equation is solved for arbitrary potentials up to 3 degrees of freedom using the Trotter decomposition of the unitary time evolution operator. Files include implementations in C and Matlab.
+Time dependent Schrödinger equation is solved for arbitrary potentials, for up to 3 degrees of freedom using the Trotter decomposition of the unitary time evolution operator. Files include implementations in C and Matlab.
 
 ![3 quantum particles](example.png)
 
